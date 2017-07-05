@@ -1,9 +1,9 @@
 {
-    "buildno": 201707051500,
+    "buildno": 201707051530,
     "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/biuvpn/iOS/master/Info.plist",
     "changelog": [
         {
-            "buildno": 201707051500,
+            "buildno": 201707051530,
             "infos": [
                 "修复局域网连接bug"
             ]
